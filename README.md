@@ -1,4 +1,4 @@
-### Hola, soy Sergio - alias [Sergiky][https://sergiky.github.io]👋
+### Hola, soy Sergio - alias [Sergiky](https://sergiky.github.io)👋
 
 ## Apasionado sobre las IT
     - 👨‍💻 Futuro pentester Red team🔴!
