@@ -6,6 +6,3 @@
 > 🧠 Aprendiendo lenguajes, hacking y todo lo que sea tecnología 😂
 
 > 🌐 Futuros proyectos de Open Source
-
-`hola`
-==como va==
