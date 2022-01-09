@@ -7,4 +7,4 @@
 
 > 🌐 Futuros proyectos de Open Source
 
-Actualmente estoy subiendo contenido a mi página web [Sergiky](https://sergiky.github.io)
+Actualmente estoy subiendo contenido a mi página web [Sergiky](https://sergiky.github.io) 👨‍💻
