@@ -4,6 +4,5 @@
 > 👨‍💻 Futuro pentester Red team🔴!
 
 > 🧠 Aprendiendo lenguajes, hacking hardware y todo lo que sea tecnología 😂
-> 🌐 Futuros proyectos de Open Source
 
-<br>
+> 🌐 Futuros proyectos de Open Source
